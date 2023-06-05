@@ -1,0 +1,19 @@
+img{
+    border: 1px solid silver;
+    padding:1px;
+    height: 350px;
+    width: 350;
+    border-radius:50%;
+    border-top-left-radius:25%;
+    border-top-right-radius:25%;
+    border-bottom-left-radius:25%;
+    border-bottom-right-radius:25%;
+}
+#pictures{
+    height:700px;
+    width: 1800px;
+    display: flex;
+    border:5px solid silver;
+    align-items:center;
+    justify-content: space-around;
+}
